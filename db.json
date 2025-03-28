@@ -1,0 +1,17 @@
+{
+  "user": {
+    "name": "Jayson",
+    "nickname": "Jay",
+    "school": "Colegio de San Juan de Letran - Calamba",
+    "location": "Calamba City, Laguna, Philippines",
+    "course": "BS Information Technology",
+    "year": "3rd Year",
+    "certifications": [
+      "Data Science Foundations: Fundamentals (LinkedIn, Jan 2025)",
+      "Learning Data Analytics: Foundations (LinkedIn, Jan 2025)",
+      "Information Technology Specialist: Java (Certiport, Jan 2025)",
+      "Information Technology Specialist: HTML5 Application Development (Certiport, Jun 2024)",
+      "Information Technology Specialist: Databases (Certiport, Jan 2024)"
+    ],
+  }
+}
